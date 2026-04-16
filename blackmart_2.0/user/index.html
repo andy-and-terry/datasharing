@@ -5,6 +5,16 @@
   <script defer src="../../assets/js/main/drc.js"></script>
   <link rel="stylesheet" href="../assets/main.css">
   <title>Datasharing v1.0 beta</title>
+  <script>
+(function () {
+    const username = localStorage.getItem("sessionUser");
+    const token = localStorage.getItem("sessionToken");
+
+    if (!username || !token || username.trim() === "" || token.trim() === "") {
+        window.location.replace("../login/index.html");
+    }
+})();
+</script>
 </head>
 <body>
   <h1>Current data</h1>
