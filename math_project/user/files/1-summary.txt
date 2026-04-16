@@ -1,0 +1,17 @@
+While the average new car loses about 50% or more of its value in the first three years, the rate of depreciation stabilizes after about four to eight years. 
+
+e.g. graph:
+
+$
+10 000 | []
+ 9 000 | []
+ 8 000 | []
+ 7 000 | []   []
+ 6 000 | []   []
+ 5 000 | []   []   []   []   []
+ 4 000 | []   []   []   []   []   []   []   []
+ 3 000 | []   []   []   []   []   []   []   []   []   []   []
+ 2 000 | []   []   []   []   []   []   []   []   []   []   []
+ 1 000 | []   []   []   []   []   []   []   []   []   []   []
+       ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
+	   2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2100
